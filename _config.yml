@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xu Huang 黄旭"
-description              : "Ph.D Student of USTC"
+title                    : "Welcome to Xu Huang's homepage"
+description              : "Email xuhuangcs at mail.ustc.edu.cn"
 repository               : "XuHwang/xuhwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xu Huang"
+  name             : "Xu Huang 黄旭"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D Student of USTC"
   location         : "Hefei, China"

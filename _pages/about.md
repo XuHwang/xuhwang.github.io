@@ -107,7 +107,6 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
   - Research intern in [Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/)
   - Mentor: [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/)
 
-<!-- # 💬 Invited Talks -->
 
 # ⏳ Professional Services
 
