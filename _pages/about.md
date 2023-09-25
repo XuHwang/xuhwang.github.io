@@ -110,5 +110,6 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 # ⏳ Professional Services
 
 ##### Program Committee Members
-- PC member, AAAI 2023
-- Sub-Reviewer, CIKM 2023
+- PC member, [TrustKDD2023 (workshop)](https://ustcml.github.io/TrustKDD/)
+- PC member, [AAAI 2023](https://aaai-23.aaai.org/)
+- Sub-Reviewer, [CIKM 2023](https://uobevents.eventsair.com/cikm2023/)

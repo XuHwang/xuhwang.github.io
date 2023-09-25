@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Welcome to Xu Huang's homepage"
+title                    : "Xu Huang's homepage"
 description              : "Email xuhuangcs at mail.ustc.edu.cn"
 repository               : "XuHwang/xuhwang.github.io"
 google_scholar_stats_use_cdn : true
