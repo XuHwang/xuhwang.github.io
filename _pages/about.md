@@ -116,5 +116,6 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 - PC member, [AAAI 2023](https://aaai-23.aaai.org/)
 - Sub-Reviewer, [CIKM 2023](https://uobevents.eventsair.com/cikm2023/)
 
-
+<div style="width: 25%">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=aLTLPi6PPrI1G1FwRYJ7ISibafGELDLQqzFUoVKfe34&cl=ffffff&w=a"></script>
+<div>
