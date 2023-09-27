@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a third-year Ph.D. student under the advisory of Prof.[Defu Lian](https://faculty.ustc.edu.cn/liandefu) in School of Computer Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I got my B.S. degree from University of Science and Technology of China (USTC) in 2021. 
 
-My research interest includes data mining, information retrieval, especially on recommender system. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes data mining, information retrieval, especially on recommender system. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'> <strong><span id='total_cit'>10+</span></strong> google scholar citations </a> <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -36,8 +36,9 @@ My research interest includes data mining, information retrieval, especially on 
 
 **Xu Huang**, Jianxun Lian, Yuxuan Lei, Jing Yao, Defu Lian, Xing Xie
 
-[**Project**](https://github.com/XuHwang/InteRecAgent) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:IjCSPb-OGe4C'></span></strong>
-- A framework to build an interactive recommendation agent with LLM 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:IjCSPb-OGe4C'></span></strong>
+- A framework to build an interactive recommendation agent with LLM
+- [Code](https://aka.ms/recagent)
 </div>
 </div>
 
@@ -60,8 +61,9 @@ Jin Chen, Zheng Liu, **Xu Huang**, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao P
 
 Defu Lian, **Xu Huang**, Xiaolong Chen, Jin Chen, Xingmei Wang, Yankai Wang, Haoran Jin, Rui Fan, Zheng Liu, Le Wu, Enhong Chen
 
-[**Project**](http://recstudio.org.cn) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:qjMakFHDy7sC'></span></strong>
 - A modularized recommender system library *RecStudio* was developped and released to public
+- [Project homepage](http://recstudio.org.cn)
 </div>
 </div>
 
@@ -113,3 +115,6 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 - PC member, [TrustKDD2023 (workshop)](https://ustcml.github.io/TrustKDD/)
 - PC member, [AAAI 2023](https://aaai-23.aaai.org/)
 - Sub-Reviewer, [CIKM 2023](https://uobevents.eventsair.com/cikm2023/)
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=aLTLPi6PPrI1G1FwRYJ7ISibafGELDLQqzFUoVKfe34&cl=ffffff&w=a"></script>
