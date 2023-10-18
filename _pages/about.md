@@ -94,6 +94,7 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 
 
 # 🎖 Honors and Awards
+- National Scholarship, *2023.10*
 - USTC Academic Scholarship, *2021.09*, *2022.09*, *2023.09*
 - USTC Excellent Student Prize, *2017.09*, *2018.09*, *2019.09*
 - National Encouragement Scholarship, *2018.09*
