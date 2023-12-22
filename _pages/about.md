@@ -106,7 +106,7 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 - *2017.08 - 2021.06*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Bachelor.
 
 # 💻 Internships
-- *2023.11 - Now*, [Huawei | Noah's Ark Lab](http://dev3.noahlab.com.hk/), Shenzhen, China.
+- *2023.11 - Now*, [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/), Shenzhen, China.
   - Research intern in Recommendation and Search Group
   - Mentor: [Weiwen Liu](https://wwliu555.github.io/)
 - *2022.10 - 2023.10*, [Microsoft Asia](https://www.msra.cn/), Beijing, China.
