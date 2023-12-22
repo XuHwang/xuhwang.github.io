@@ -23,6 +23,7 @@ My research interest includes data mining, information retrieval, especially on 
 
 
 # 🔥 News
+- *2023.10*: &nbsp;🎉🎉 Our work for the data-centric multi-objective recommendation *[MoRec](https://arxiv.org/abs/2310.13260)* is released in [Arxiv](https://arxiv.org/abs/2310.13260). 
 - *2023.08*: &nbsp;🎉🎉 Our work for the LLM-augmented interactive recommendation agent *[InteRecAgent](https://arxiv.org/abs/2308.16505)* is released in [Arxiv](https://arxiv.org/abs/2308.16505). 
 - *2023.04*: &nbsp;🎉🎉 Our paper for the modularized recommender system library *[RecStudio](http://recstudio.org.cn/)* is accepted by SIGIR 2023. 
 - *2023.01*: &nbsp;🎉🎉 Our work for jointly optimization in multi-stage recommendation *CoRR* is accepted by The Web Conference 2023. 
@@ -105,6 +106,9 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 - *2017.08 - 2021.06*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Bachelor.
 
 # 💻 Internships
+- *2023.11 - Now*, [Huawei | Noah's Ark Lab](http://dev3.noahlab.com.hk/), Shenzhen, China.
+  - Research intern in Recommendation and Search Group
+  - Mentor: [Weiwen Liu](https://wwliu555.github.io/)
 - *2022.10 - 2023.10*, [Microsoft Asia](https://www.msra.cn/), Beijing, China.
   - Research intern in [Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/)
   - Mentor: [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/)
@@ -113,8 +117,10 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 # ⏳ Professional Services
 
 ##### Program Committee Members
+- Reviewer, [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
+- Reviewer, [WWW 2024](https://www2024.thewebconf.org/)
 - PC member, [TrustKDD2023 (workshop)](https://ustcml.github.io/TrustKDD/)
-- PC member, [AAAI 2023](https://aaai-23.aaai.org/)
+- PC member, [AAAI 2024](https://aaai-23.aaai.org/)
 - Sub-Reviewer, [CIKM 2023](https://uobevents.eventsair.com/cikm2023/)
 
 <div style="width: 25%">
