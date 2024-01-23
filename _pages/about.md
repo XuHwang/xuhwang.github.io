@@ -23,12 +23,26 @@ My research interest includes data mining, information retrieval, especially on 
 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 Our work for the data-centric multi-objective recommendation *[MoRec](https://arxiv.org/abs/2310.13260)* is accepted by [WWW 2024](https://www2024.thewebconf.org/), accept rate 20.2%. 
 - *2023.10*: &nbsp;🎉🎉 Our work for the data-centric multi-objective recommendation *[MoRec](https://arxiv.org/abs/2310.13260)* is released in [Arxiv](https://arxiv.org/abs/2310.13260). 
 - *2023.08*: &nbsp;🎉🎉 Our work for the LLM-augmented interactive recommendation agent *[InteRecAgent](https://arxiv.org/abs/2308.16505)* is released in [Arxiv](https://arxiv.org/abs/2308.16505). 
-- *2023.04*: &nbsp;🎉🎉 Our paper for the modularized recommender system library *[RecStudio](http://recstudio.org.cn/)* is accepted by SIGIR 2023. 
-- *2023.01*: &nbsp;🎉🎉 Our work for jointly optimization in multi-stage recommendation *CoRR* is accepted by The Web Conference 2023. 
+<!-- - *2023.04*: &nbsp;🎉🎉 Our paper for the modularized recommender system library *[RecStudio](http://recstudio.org.cn/)* is accepted by SIGIR 2023.  -->
+<!-- - *2023.01*: &nbsp;🎉🎉 Our work for jointly optimization in multi-stage recommendation *CoRR* is accepted by The Web Conference 2023.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/morec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Data-Centric Multi-Objective Learning Framework for Responsible Recommendation Systems](https://arxiv.org/abs/2310.13260)
+
+**Xu Huang**, Jianxun Lian, Hao Wang, Defu Lian, Xing Xie
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&citation_for_view=fXFMb-gAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:IjCSPb-OGe4C'></span></strong>
+- A data-centric framework for multi-objective learning in recommendation systems.
+- [Code](https://github.com/microsoft/UniRec/tree/main/unirec/facility/morec)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/interecagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
