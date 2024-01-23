@@ -38,7 +38,7 @@ My research interest includes data mining, information retrieval, especially on 
 
 **Xu Huang**, Jianxun Lian, Hao Wang, Defu Lian, Xing Xie
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&citation_for_view=fXFMb-gAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:IjCSPb-OGe4C'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&citation_for_view=fXFMb-gAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:zYLM7Y9cAGgC'></span></strong>
 - A data-centric framework for multi-objective learning in recommendation systems.
 - [Code](https://github.com/microsoft/UniRec/tree/main/unirec/facility/morec)
 </div>
