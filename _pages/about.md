@@ -32,7 +32,7 @@ My research interest includes data mining, information retrieval, especially on 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/survey-planning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/survey-planning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716)
