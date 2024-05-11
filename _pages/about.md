@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a third-year Ph.D. student under the advisory of Prof.[Defu Lian](https://faculty.ustc.edu.cn/liandefu) in School of Computer Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I got my B.S. degree from University of Science and Technology of China (USTC) in 2021. 
 
-My research interest includes data mining, information retrieval, especially on recommender system. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'> <strong><span id='total_cit'>10+</span></strong> google scholar citations </a> <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes large language models, data mining, information retrieval, especially on recommender system. Recently my major research direction is on the LLM-driven autonomous agents. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'> <strong><span id='total_cit'>10+</span></strong> google scholar citations </a> <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -28,7 +28,7 @@ My research interest includes data mining, information retrieval, especially on 
 - *2024.02*: &nbsp;🎉🎉 Our survey for the planning ability of LLM agents is released in [Arxiv](https://arxiv.org/abs/2402.02716). 
 - *2024.01*: &nbsp;🎉🎉 Our work for the data-centric multi-objective recommendation *[MoRec](https://arxiv.org/abs/2310.13260)* is accepted by [WWW 2024](https://www2024.thewebconf.org/), accept rate 20.2%. 
 <!-- - *2023.10*: &nbsp;🎉🎉 Our work for the data-centric multi-objective recommendation *[MoRec](https://arxiv.org/abs/2310.13260)* is released in [Arxiv](https://arxiv.org/abs/2310.13260).  -->
-- *2023.08*: &nbsp;🎉🎉 Our work for the LLM-augmented interactive recommendation agent *[InteRecAgent](https://arxiv.org/abs/2308.16505)* is released in [Arxiv](https://arxiv.org/abs/2308.16505). 
+<!-- - *2023.08*: &nbsp;🎉🎉 Our work for the LLM-augmented interactive recommendation agent *[InteRecAgent](https://arxiv.org/abs/2308.16505)* is released in [Arxiv](https://arxiv.org/abs/2308.16505).  -->
 <!-- - *2023.04*: &nbsp;🎉🎉 Our paper for the modularized recommender system library *[RecStudio](http://recstudio.org.cn/)* is accepted by SIGIR 2023.  -->
 <!-- - *2023.01*: &nbsp;🎉🎉 Our work for jointly optimization in multi-stage recommendation *CoRR* is accepted by The Web Conference 2023.  -->
 
