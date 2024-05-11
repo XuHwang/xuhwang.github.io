@@ -23,6 +23,8 @@ My research interest includes data mining, information retrieval, especially on 
 
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 Our method for weak exploration to strong exploitation for LLM agents is released in [Arxiv](https://arxiv.org/abs/2404.07456). 
+- *2024.03*: &nbsp;🎉🎉 Our demo paper for the toolkit **RecAI** for bridging LLM and Recommendation Systems is accepted by [WWW 2024](https://www2024.thewebconf.org/). The project is released in [Github](https://github.com/microsoft/RecAI). 
 - *2024.02*: &nbsp;🎉🎉 Our survey for the planning ability of LLM agents is released in [Arxiv](https://arxiv.org/abs/2402.02716). 
 - *2024.01*: &nbsp;🎉🎉 Our work for the data-centric multi-objective recommendation *[MoRec](https://arxiv.org/abs/2310.13260)* is accepted by [WWW 2024](https://www2024.thewebconf.org/), accept rate 20.2%. 
 <!-- - *2023.10*: &nbsp;🎉🎉 Our work for the data-centric multi-objective recommendation *[MoRec](https://arxiv.org/abs/2310.13260)* is released in [Arxiv](https://arxiv.org/abs/2310.13260).  -->
@@ -32,6 +34,31 @@ My research interest includes data mining, information retrieval, especially on 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/wese.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WESE: Weak Exploration to Strong Exploitation for LLM Agents](https://arxiv.org/abs/2404.07456)
+
+**Xu Huang**, Weiwen Liu, Xiaolong Chen, Xingmei Wang, Defu Lian, Yasheng Wang, Ruiming Tang, Enhong Chen
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&citation_for_view=fXFMb-gAAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:eQOLeE2rZwMC'></span></strong>
+- A novel prompt-based method for LLM agents, leveraging weaker agent for exploration and stronger agent for exploitation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW2024</div><img src='images/recai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RecAI: Leveraging Large Language Models for Next-GenerationRecommender Systems](https://arxiv.org/abs/2403.06465)
+
+Jianxun Lian, Yuxuan Lei, **Xu Huang**, Jing Yao, Wei Xu, Xing Xie
+
+[**Project**](https://github.com/microsoft/RecAI) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:YsMSGLbcyi4C'></span></strong>
+- A practical toolkit designed to augmentor even revolutionize recommender systems with the advanced capabilities of Large Language Models.
+- Demo Paper
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/survey-planning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,7 +66,7 @@ My research interest includes data mining, information retrieval, especially on 
 
 **Xu Huang**, Weiwen Liu, Xiaolong Chen, Xingmei Wang, Hao Wang, Defu Lian, Yasheng Wang, Ruiming Tang, Enhong Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&citation_for_view=fXFMb-gAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:W7OEmFMy1HYC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&citation_for_view=fXFMb-gAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:W7OEmFMy1HYC'></span></strong>
 - A survey about the planning ability of LLM agents.
 </div>
 </div>
@@ -51,7 +78,7 @@ My research interest includes data mining, information retrieval, especially on 
 
 **Xu Huang**, Jianxun Lian, Hao Wang, Defu Lian, Xing Xie
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&citation_for_view=fXFMb-gAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&citation_for_view=fXFMb-gAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:zYLM7Y9cAGgC'></span></strong>
 - A data-centric framework for multi-objective learning in recommendation systems.
 - [Code](https://github.com/microsoft/UniRec/tree/main/unirec/facility/morec)
 </div>
@@ -64,7 +91,7 @@ My research interest includes data mining, information retrieval, especially on 
 
 **Xu Huang**, Jianxun Lian, Yuxuan Lei, Jing Yao, Defu Lian, Xing Xie
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:IjCSPb-OGe4C'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:IjCSPb-OGe4C'></span></strong>
 - A framework to build an interactive recommendation agent with LLM
 - [Code](https://aka.ms/recagent)
 </div>
@@ -77,7 +104,7 @@ My research interest includes data mining, information retrieval, especially on 
 
 Jin Chen, Zheng Liu, **Xu Huang**, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:UeHWp8X0CEIC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:UeHWp8X0CEIC'></span></strong>
 - A survey to summarize the combination of large language models and personlization systems
 </div>
 </div>
@@ -89,7 +116,7 @@ Jin Chen, Zheng Liu, **Xu Huang**, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao P
 
 Defu Lian, **Xu Huang**, Xiaolong Chen, Jin Chen, Xingmei Wang, Yankai Wang, Haoran Jin, Rui Fan, Zheng Liu, Le Wu, Enhong Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:qjMakFHDy7sC'></span></strong>
 - A modularized recommender system library *RecStudio* was developped and released to public
 - [Project homepage](http://recstudio.org.cn)
 </div>
@@ -102,7 +129,7 @@ Defu Lian, **Xu Huang**, Xiaolong Chen, Jin Chen, Xingmei Wang, Yankai Wang, Hao
 
 **Xu Huang**, Defu Lian, Jin Chen, Zheng Liu, Xing Xie, Enhong Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:u5HHmVD_uO8C'></span></strong>
 - An adaptive hard negative sampler was introduced to enhance the ranker
 - An sampling based KL divergence was proposed to enhance the retriever
 </div>
@@ -115,7 +142,7 @@ Defu Lian, **Xu Huang**, Xiaolong Chen, Jin Chen, Xingmei Wang, Yankai Wang, Hao
 
 Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:u-x6o8ySG0sC'></span></strong>
 - An adaptive negative sampler was proposed to training VAE efficiently
 </div>
 </div>
