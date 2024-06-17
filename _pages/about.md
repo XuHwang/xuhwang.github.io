@@ -181,12 +181,12 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 
 # 📃 Curriculum Vitae
 
-<object data="images/CV.pdf" type="application/pdf" width="60%" height="80%">
+<object data="images/CV.pdf" type="application/pdf" width="48%" height="64%">
   <p>It appears you don't have a PDF plugin for this browser. No worries, you can<a href="images/cv.pdf"> click here to download the PDF file.</a></p>
 </object>
 
 
-#
+# 📈 Pageviews
 
 <div style="width: 25%">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=aLTLPi6PPrI1G1FwRYJ7ISibafGELDLQqzFUoVKfe34&cl=ffffff&w=a"></script>
