@@ -177,13 +177,15 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 - PC member, [AAAI 2024](https://aaai-23.aaai.org/)
 - Sub-Reviewer, [CIKM 2023](https://uobevents.eventsair.com/cikm2023/)
 
-<div style="width: 25%">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=aLTLPi6PPrI1G1FwRYJ7ISibafGELDLQqzFUoVKfe34&cl=ffffff&w=a"></script>
-<div>
 
 
 # 📃 CV
 
-<object data="images/CV.pdf" type="application/pdf" width="100%" height="100%">
+<object data="images/CV.pdf" type="application/pdf" width="80%" height="100%">
   <p>It appears you don't have a PDF plugin for this browser. No worries, you can<a href="images/cv.pdf"> click here to download the PDF file.</a></p>
 </object>
+
+
+<div style="width: 25%">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=aLTLPi6PPrI1G1FwRYJ7ISibafGELDLQqzFUoVKfe34&cl=ffffff&w=a"></script>
+<div>
