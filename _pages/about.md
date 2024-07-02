@@ -23,6 +23,7 @@ My research interest includes large language models, data mining, information re
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 Our  for weak exploration to strong exploitation for LLM agents is released in [Arxiv](https://arxiv.org/abs/2404.07456). 
 - *2024.04*: &nbsp;🎉🎉 Our method for weak exploration to strong exploitation for LLM agents is released in [Arxiv](https://arxiv.org/abs/2404.07456). 
 - *2024.03*: &nbsp;🎉🎉 Our demo paper for the toolkit **RecAI** for bridging LLM and Recommendation Systems is accepted by [WWW 2024](https://www2024.thewebconf.org/). The project is released in [Github](https://github.com/microsoft/RecAI). 
 - *2024.02*: &nbsp;🎉🎉 Our survey for the planning ability of LLM agents is released in [Arxiv](https://arxiv.org/abs/2402.02716). 
@@ -33,6 +34,32 @@ My research interest includes large language models, data mining, information re
 <!-- - *2023.01*: &nbsp;🎉🎉 Our work for jointly optimization in multi-stage recommendation *CoRR* is accepted by The Web Conference 2023.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD2024</div><img src='images/recexplainer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RecExplainer: Aligning Large Language Models for Explaining Recommendation Models](https://arxiv.org/abs/2311.10947)
+
+Yuxuan Lei, Jianxun Lian, Jing Yao, **Xu Huang**, Defu Lian, Xing Xie
+
+[**Project**](https://github.com/microsoft/RecAI/blob/main/RecExplainer/README.md) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- A novel approach to leverage LLMs as surrogate models for explaining black-box recommender models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML2024</div><img src='images/RG2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning-Efficient Yet Generalizable Collaborative Filtering for Item Recommendation](https://openreview.net/pdf?id=D5IRvFF1lN)
+
+Yuanhao Pu, Xiaolong Chen, **Xu Huang**, Jin Chen, Defu Lian, Enhong Chen
+
+[**Project**](https://github.com/yuanhao53/RG2) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:Zph67rFs4hoC'></span></strong>
+- This work proposes a new square loss RG2 for recommendation based on the approximation of the softmax loss with Taylor expansion.
+- We have studied the theoretical properties of the proposed loss in terms of generalization and consistency. 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/wese.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,10 +124,10 @@ Jianxun Lian, Yuxuan Lei, **Xu Huang**, Jing Yao, Wei Xu, Xing Xie
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/llm4rec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWWJ</div><img src='images/llm4rec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[When large language models meet personalization: Perspectives of challenges and opportunities](https://arxiv.org/abs/2307.16376)
+[When large language models meet personalization: Perspectives of challenges and opportunities](https://link.springer.com/article/10.1007/s11280-024-01276-1)
 
 Jin Chen, Zheng Liu, **Xu Huang**, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen
 
