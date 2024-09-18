@@ -41,9 +41,9 @@ My research interest includes large language models, data mining, information re
 
 [ToolACE: Winning the Points of LLM Function Calling](https://arxiv.org/abs/2409.00920)
 
-Weiwen Liu*, **Xu Huang\***, Xingshan Zeng*, Xinlong Hao, Shuai Yu, Dexun Li, Shuai Wang, Weinan Gan, et al.
+Weiwen Liu\*, **Xu Huang\***, Xingshan Zeng\*, Xinlong Hao, Shuai Yu, Dexun Li, Shuai Wang, Weinan Gan, et al.
 
-[**Project**](https://huggingface.co/Team-ACE/ToolACE-8B) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+[**Project**](https://huggingface.co/Team-ACE/ToolACE-8B) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:YOwf2qJgpHMC'></span></strong>
 - A data synthetic framework tailored for enhancing tool-using ability of LLMs.
 - [Model](https://huggingface.co/Team-ACE/ToolACE-8B); [Dataset](https://huggingface.co/datasets/Team-ACE/ToolACE)
 </div>
