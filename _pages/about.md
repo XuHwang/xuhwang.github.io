@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a third-year Ph.D. student under the advisory of Prof.[Defu Lian](https://faculty.ustc.edu.cn/liandefu) in School of Computer Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I got my B.S. degree from University of Science and Technology of China (USTC) in 2021. 
 
-My research interest includes large language models, data mining, information retrieval, especially on recommender system. Recently my major research direction is on the LLM-driven autonomous agents. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'> <strong><span id='total_cit'>10+</span></strong> google scholar citations </a> <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes large language models, data mining, information retrieval, especially on recommender system. Recently my major research direction is on the LLM-driven autonomous agents. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'> <strong><span id='total_cit'>200+</span></strong> google scholar citations </a> <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -213,9 +213,10 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 
 ##### Program Committee Members
 - Reviewer, [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
-- Reviewer, [WWW 2024](https://www2024.thewebconf.org/)
+- Reviewer, [WWW 2024](https://thewebconf.org/)
 - PC member, [TrustKDD2023 (workshop)](https://ustcml.github.io/TrustKDD/)
-- PC member, [AAAI 2024](https://aaai-23.aaai.org/)
+- PC member, [AAAI 2024, 2025](https://aaai.org/conference/aaai/)
+- PC member, [KDD 2025](https://kdd.org/conferences)
 - Sub-Reviewer, [CIKM 2023](https://uobevents.eventsair.com/cikm2023/)
 
 
