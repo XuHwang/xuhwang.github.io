@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. student under the advisory of Prof.[Defu Lian](https://faculty.ustc.edu.cn/liandefu) in School of Computer Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I got my B.S. degree from University of Science and Technology of China (USTC) in 2021. 
+I am currently a 4th-year Ph.D. student under the advisory of Prof.[Defu Lian](https://faculty.ustc.edu.cn/liandefu) in School of Computer Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I got my B.S. degree from University of Science and Technology of China (USTC) in 2021. 
 
 My research interest includes large language models, data mining, information retrieval, especially on recommender system. Recently my major research direction is on the LLM-driven autonomous agents. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'> <strong><span id='total_cit'>200+</span></strong> google scholar citations </a> <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -188,24 +188,33 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 </div>
 </div>
 
+# ⚙️ Projects
+
+- [ToolACE](https://huggingface.co/Team-ACE): Large Language Models tailored for functional-calling (or tool-using) tasks.
+- [RecAI](https://github.com/microsoft/RecAI): A project aims to bridge this gap by investigating various strategies to integrate LLMs into recommender systems.
+- [RecFM](https://github.com/USTCLLM/RecFM): A project aims to build foundation models for recommendation systems.
+- [RecStudio](http://recstudio.org.cn): A modularized and unified library for recommendation system based on PyTorch.
+- [UniRec]( https://github.com/microsoft/UniRec): An easy-to-use, lightweight, and scalable implementation of recommender systems.
+
 
 # 🎖 Honors and Awards
+- Stars of Tomorrow Award, Microsoft Research Asia, *2023.10*
 - National Scholarship, *2023.10*
-- USTC Academic Scholarship, *2021.09*, *2022.09*, *2023.09*
+- USTC Academic Scholarship, *2021.09*, *2022.09*, *2023.09*, *2024.09*
 - USTC Excellent Student Prize, *2017.09*, *2018.09*, *2019.09*
 - National Encouragement Scholarship, *2018.09*
 - Shizhang Bei Talent class Scholarship, *2017.09*
 
 # 📖 Educations
-- *2021.09 - 2026.12 (expected)*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Ph.D. student.
+- *2021.09 - 2026.06 (expected)*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Ph.D. student.
 - *2017.08 - 2021.06*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Bachelor.
 
 # 💻 Internships
 - *2023.11 - Now*, [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/), Shenzhen, China.
-  - Research intern in Recommendation and Search Group
+  - Research intern in Recommendation and Search Group lead by Ruiming Tang
   - Mentor: [Weiwen Liu](https://wwliu555.github.io/)
 - *2022.10 - 2023.10*, [Microsoft Research Asia](https://www.msra.cn/), Beijing, China.
-  - Research intern in [Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/)
+  - Research intern in [Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/) lead by [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
   - Mentor: [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/)
 
 
@@ -213,7 +222,7 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 
 ##### Program Committee Members
 - Reviewer, [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
-- Reviewer, [WWW 2024](https://thewebconf.org/)
+- Reviewer, [WWW 2024, WWW 2025](https://thewebconf.org/)
 - PC member, [TrustKDD2023 (workshop)](https://ustcml.github.io/TrustKDD/)
 - PC member, [AAAI 2024, 2025](https://aaai.org/conference/aaai/)
 - PC member, [KDD 2025](https://kdd.org/conferences)
