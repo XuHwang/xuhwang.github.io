@@ -234,7 +234,7 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 
 # 📃 Curriculum Vitae
 
-If you are interested in my academic background, please feel free to contact me by email: [xuhuangcs@mail.ustc.edu.cn](mailto:xuhuangcs@mail.ustc.edu.cn).
+I am a 2026 graduate seeking employment opportunities. Please do not hesitate to contact me via email if you have any suitable positions available. Contact me: [xuhuangcs@mail.ustc.edu.cn](mailto:xuhuangcs@mail.ustc.edu.cn).
 
 <!-- <object data="images/CV.pdf" type="application/pdf" width="48%" height="64%">
   <p>It appears you don't have a PDF plugin for this browser. No worries, you can<a href="images/cv.pdf"> click here to download the PDF file.</a></p>
