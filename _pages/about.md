@@ -211,11 +211,11 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 
 # 💻 Internships
 - *2023.11 - Now*, [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/), Shenzhen, China.
-  - Research intern in Recommendation and Search Group lead by Ruiming Tang
+  - Intern in Recommendation and Search Group lead by Ruiming Tang
   - Dive into: Multi-domain and Multi-task Recommendation, LLM Agents
   - Mentor: [Weiwen Liu](https://wwliu555.github.io/)
 - *2022.10 - 2023.10*, [Microsoft Research Asia](https://www.msra.cn/), Beijing, China.
-  - Research intern in [Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/) lead by [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
+  - Intern in [Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/) lead by [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
   - Dive into: Responsible Recommendation, Recommendation Agent
   - Mentor: [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/)
 
