@@ -133,7 +133,7 @@ Yuxuan Lei, Jianxun Lian, Jing Yao, **Xu Huang**, Defu Lian, Xing Xie
 
 [RecStudio: Towards a Highly-Modularized Recommender System](http://recstudio.org.cn)
 
-Defu Lian, **Xu Huang**, Xiaolong Chen, Jin Chen, Xingmei Wang, Yankai Wang, Haoran Jin, Rui Fan, Zheng Liu, Le Wu, Enhong Chen
+Defu Lian(mentor), **Xu Huang**, Xiaolong Chen, Jin Chen, Xingmei Wang, Yankai Wang, Haoran Jin, Rui Fan, Zheng Liu, Le Wu, Enhong Chen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:qjMakFHDy7sC'></span></strong>
 - A modularized recommender system library *RecStudio* was developped and released to public
