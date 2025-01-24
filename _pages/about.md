@@ -78,20 +78,6 @@ Yuxuan Lei, Jianxun Lian, Jing Yao, **Xu Huang**, Defu Lian, Xing Xie
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML2024</div><img src='images/RG2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning-Efficient Yet Generalizable Collaborative Filtering for Item Recommendation](https://openreview.net/pdf?id=D5IRvFF1lN)
-
-Yuanhao Pu, Xiaolong Chen, **Xu Huang**, Jin Chen, Defu Lian, Enhong Chen
-
-[**Project**](https://github.com/yuanhao53/RG2) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:Zph67rFs4hoC'></span></strong>
-- This work proposes a new square loss RG2 for recommendation based on the approximation of the softmax loss with Taylor expansion.
-- We have studied the theoretical properties of the proposed loss in terms of generalization and consistency. 
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/wese.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,19 +87,6 @@ Yuanhao Pu, Xiaolong Chen, **Xu Huang**, Jin Chen, Defu Lian, Enhong Chen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&citation_for_view=fXFMb-gAAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:eQOLeE2rZwMC'></span></strong>
 - A novel prompt-based method for LLM agents, leveraging weaker agent for exploration and stronger agent for exploitation.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW2024</div><img src='images/recai.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[RecAI: Leveraging Large Language Models for Next-GenerationRecommender Systems](https://arxiv.org/abs/2403.06465)
-
-Jianxun Lian, Yuxuan Lei, **Xu Huang**, Jing Yao, Wei Xu, Xing Xie
-
-[**Project**](https://github.com/microsoft/RecAI) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:YsMSGLbcyi4C'></span></strong>
-- A practical toolkit designed to augmentor even revolutionize recommender systems with the advanced capabilities of Large Language Models.
-- Demo Paper
 </div>
 </div>
 
@@ -155,18 +128,6 @@ Jianxun Lian, Yuxuan Lei, **Xu Huang**, Jing Yao, Wei Xu, Xing Xie
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWWJ</div><img src='images/llm4rec.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[When large language models meet personalization: Perspectives of challenges and opportunities](https://link.springer.com/article/10.1007/s11280-024-01276-1)
-
-Jin Chen, Zheng Liu, **Xu Huang**, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:UeHWp8X0CEIC'></span></strong>
-- A survey to summarize the combination of large language models and personlization systems
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2023</div><img src='images/recstudio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -190,6 +151,44 @@ Defu Lian, **Xu Huang**, Xiaolong Chen, Jin Chen, Xingmei Wang, Yankai Wang, Hao
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:u5HHmVD_uO8C'></span></strong>
 - An adaptive hard negative sampler was introduced to enhance the ranker
 - An sampling based KL divergence was proposed to enhance the retriever
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML2024</div><img src='images/RG2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning-Efficient Yet Generalizable Collaborative Filtering for Item Recommendation](https://openreview.net/pdf?id=D5IRvFF1lN)
+
+Yuanhao Pu, Xiaolong Chen, **Xu Huang**, Jin Chen, Defu Lian, Enhong Chen
+
+[**Project**](https://github.com/yuanhao53/RG2) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:Zph67rFs4hoC'></span></strong>
+- This work proposes a new square loss RG2 for recommendation based on the approximation of the softmax loss with Taylor expansion.
+- We have studied the theoretical properties of the proposed loss in terms of generalization and consistency. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW2024</div><img src='images/recai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RecAI: Leveraging Large Language Models for Next-GenerationRecommender Systems](https://arxiv.org/abs/2403.06465)
+
+Jianxun Lian, Yuxuan Lei, **Xu Huang**, Jing Yao, Wei Xu, Xing Xie
+
+[**Project**](https://github.com/microsoft/RecAI) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:YsMSGLbcyi4C'></span></strong>
+- A practical toolkit designed to augmentor even revolutionize recommender systems with the advanced capabilities of Large Language Models.
+- Demo Paper
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWWJ</div><img src='images/llm4rec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When large language models meet personalization: Perspectives of challenges and opportunities](https://link.springer.com/article/10.1007/s11280-024-01276-1)
+
+Jin Chen, Zheng Liu, **Xu Huang**, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:UeHWp8X0CEIC'></span></strong>
+- A survey to summarize the combination of large language models and personlization systems
 </div>
 </div>
 
