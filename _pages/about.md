@@ -56,7 +56,7 @@ task-perceptive parameter-sharing network from the bottom up.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/toolace.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ToolACE: Winning the Points of LLM Function Calling](https://arxiv.org/abs/2409.00920)
+[ToolACE: Winning the Points of LLM Function Calling](https://openreview.net/forum?id=8EB8k6DdCU)
 
 Weiwen Liu\*, **Xu Huang\***, Xingshan Zeng\*, Xinlong Hao, Shuai Yu, Dexun Li, Shuai Wang, Weinan Gan, et al.
 
