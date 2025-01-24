@@ -23,6 +23,8 @@ My research interest includes large language models, data mining, information re
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Our work HyperGate for multi-domain and multi-task recommendation is accepted by WWW 2024 Industry Track, accept rate 22.42%. 
+- *2025.01*: &nbsp;🎉🎉 Our work [ToolACE](https://openreview.net/forum?id=8EB8k6DdCU) for enhancing tool-using ability of LLM is accepted by ICLR 2025, accept rate 32.08%. 
 - *2024.09*: &nbsp;🎉🎉 Our framework and model ToolACE for enhancing tool-using ability of LLM is released in [arXiv](https://arxiv.org/abs/2409.00920). 
 - *2024.05*: &nbsp;🎉🎉 Our work for weak exploration to strong exploitation for LLM agents is released in [arXiv](https://arxiv.org/abs/2404.07456). 
 - *2024.04*: &nbsp;🎉🎉 Our method for weak exploration to strong exploitation for LLM agents is released in [arXiv](https://arxiv.org/abs/2404.07456). 
@@ -36,7 +38,22 @@ My research interest includes large language models, data mining, information re
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/toolace.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/hypergate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+HyperGate: Hierarchical Perceptive Gating Network for Multi-domain Multi-task Recommendation
+
+**Xu Huang\***, Xiaolong Chen\*, Yichao Wang, Weiwen Liu, Yang Yang, Xingmei Wang, Defu Lian and Ruiming Tang
+
+**Project**
+- A hierarchical gating network for multi-domain and multi-task recommendation.
+- We propose a contrastive domain and task representation augumentation module to extract domain and task embeddings, and a hierarchical gating network to construct a domain- and
+task-perceptive parameter-sharing network from the bottom up.
+- The paper will be public soon.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/toolace.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ToolACE: Winning the Points of LLM Function Calling](https://arxiv.org/abs/2409.00920)
