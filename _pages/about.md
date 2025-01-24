@@ -23,7 +23,7 @@ My research interest includes large language models, data mining, information re
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Our work HyperGate for multi-domain and multi-task recommendation is accepted by WWW 2024 Industry Track, accept rate 22.42%. 
+- *2025.01*: &nbsp;🎉🎉 Our work HyperGate for multi-domain and multi-task recommendation is accepted by [WWW 2025 Industry Track](https://www2025.thewebconf.org/), accept rate 22.42%. 
 - *2025.01*: &nbsp;🎉🎉 Our work [ToolACE](https://openreview.net/forum?id=8EB8k6DdCU) for enhancing tool-using ability of LLM is accepted by [ICLR 2025](https://iclr.cc/Conferences/2025). 
 - *2024.09*: &nbsp;🎉🎉 Our framework and model ToolACE for enhancing tool-using ability of LLM is released in [arXiv](https://arxiv.org/abs/2409.00920). 
 - *2024.05*: &nbsp;🎉🎉 Our work for weak exploration to strong exploitation for LLM agents is released in [arXiv](https://arxiv.org/abs/2404.07456). 
