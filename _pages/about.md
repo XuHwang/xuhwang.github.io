@@ -66,17 +66,6 @@ Weiwen Liu\*, **Xu Huang\***, Xingshan Zeng\*, Xinlong Hao, Shuai Yu, Dexun Li, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD2024</div><img src='images/recexplainer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[RecExplainer: Aligning Large Language Models for Explaining Recommendation Models](https://arxiv.org/abs/2311.10947)
-
-Yuxuan Lei, Jianxun Lian, Jing Yao, **Xu Huang**, Defu Lian, Xing Xie
-
-[**Project**](https://github.com/microsoft/RecAI/blob/main/RecExplainer/README.md) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:Tyk-4Ss8FVUC'></span></strong>
-- A novel approach to leverage LLMs as surrogate models for explaining black-box recommender models.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/wese.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -151,6 +140,18 @@ Defu Lian(mentor), **Xu Huang**, Xiaolong Chen, Jin Chen, Xingmei Wang, Yankai W
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:u5HHmVD_uO8C'></span></strong>
 - An adaptive hard negative sampler was introduced to enhance the ranker
 - An sampling based KL divergence was proposed to enhance the retriever
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD2024</div><img src='images/recexplainer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RecExplainer: Aligning Large Language Models for Explaining Recommendation Models](https://arxiv.org/abs/2311.10947)
+
+Yuxuan Lei, Jianxun Lian, Jing Yao, **Xu Huang**, Defu Lian, Xing Xie
+
+[**Project**](https://github.com/microsoft/RecAI/blob/main/RecExplainer/README.md) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- A novel approach to leverage LLMs as surrogate models for explaining black-box recommender models.
 </div>
 </div>
 
