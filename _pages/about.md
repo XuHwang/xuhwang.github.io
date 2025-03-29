@@ -23,14 +23,15 @@ My research interest includes large language models, data mining, information re
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 Our work InteRecAgent for interactive recommendation is accepted by [TOIS](https://dl.acm.org/journal/tois). 
 - *2025.01*: &nbsp;🎉🎉 Our work HyperGate for multi-domain multi-task recommendation is accepted by [WWW 2025](https://www2025.thewebconf.org/), accept rate 22.42%. 
 - *2025.01*: &nbsp;🎉🎉 Our work [ToolACE](https://openreview.net/forum?id=8EB8k6DdCU) for enhancing tool-using ability of LLM is accepted by [ICLR 2025](https://iclr.cc/Conferences/2025). 
-- *2024.09*: &nbsp;🎉🎉 Our framework and model ToolACE for enhancing tool-using ability of LLM is released in [arXiv](https://arxiv.org/abs/2409.00920). 
-- *2024.05*: &nbsp;🎉🎉 Our work for weak exploration to strong exploitation for LLM agents is released in [arXiv](https://arxiv.org/abs/2404.07456). 
-- *2024.04*: &nbsp;🎉🎉 Our method for weak exploration to strong exploitation for LLM agents is released in [arXiv](https://arxiv.org/abs/2404.07456). 
-- *2024.03*: &nbsp;🎉🎉 Our demo paper for the toolkit **RecAI** for bridging LLM and Recommendation Systems is accepted by [WWW 2024](https://www2024.thewebconf.org/). The project is released in [Github](https://github.com/microsoft/RecAI). 
-- *2024.02*: &nbsp;🎉🎉 Our survey for the planning ability of LLM agents is released in [arXiv](https://arxiv.org/abs/2402.02716). 
-- *2024.01*: &nbsp;🎉🎉 Our work for the data-centric multi-objective recommendation *[MoRec](https://arxiv.org/abs/2310.13260)* is accepted by [WWW 2024](https://www2024.thewebconf.org/), accept rate 20.2%. 
+<!-- - *2024.09*: &nbsp;🎉🎉 Our framework and model ToolACE for enhancing tool-using ability of LLM is released in [arXiv](https://arxiv.org/abs/2409.00920).  -->
+<!-- - *2024.05*: &nbsp;🎉🎉 Our work for weak exploration to strong exploitation for LLM agents is released in [arXiv](https://arxiv.org/abs/2404.07456).  -->
+<!-- - *2024.04*: &nbsp;🎉🎉 Our method for weak exploration to strong exploitation for LLM agents is released in [arXiv](https://arxiv.org/abs/2404.07456).  -->
+<!-- - *2024.03*: &nbsp;🎉🎉 Our demo paper for the toolkit **RecAI** for bridging LLM and Recommendation Systems is accepted by [WWW 2024](https://www2024.thewebconf.org/). The project is released in [Github](https://github.com/microsoft/RecAI).  -->
+<!-- - *2024.02*: &nbsp;🎉🎉 Our survey for the planning ability of LLM agents is released in [arXiv](https://arxiv.org/abs/2402.02716).  -->
+<!-- - *2024.01*: &nbsp;🎉🎉 Our work for the data-centric multi-objective recommendation *[MoRec](https://arxiv.org/abs/2310.13260)* is accepted by [WWW 2024](https://www2024.thewebconf.org/), accept rate 20.2%.  -->
 <!-- - *2023.10*: &nbsp;🎉🎉 Our work for the data-centric multi-objective recommendation *[MoRec](https://arxiv.org/abs/2310.13260)* is released in [arXiv](https://arxiv.org/abs/2310.13260).  -->
 <!-- - *2023.08*: &nbsp;🎉🎉 Our work for the LLM-augmented interactive recommendation agent *[InteRecAgent](https://arxiv.org/abs/2308.16505)* is released in [arXiv](https://arxiv.org/abs/2308.16505).  -->
 <!-- - *2023.04*: &nbsp;🎉🎉 Our paper for the modularized recommender system library *[RecStudio](http://recstudio.org.cn/)* is accepted by SIGIR 2023.  -->
@@ -104,7 +105,7 @@ Weiwen Liu\*, **Xu Huang\***, Xingshan Zeng\*, Xinlong Hao, Shuai Yu, Dexun Li, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/interecagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS</div><img src='images/interecagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations](https://arxiv.org/abs/2308.16505)
