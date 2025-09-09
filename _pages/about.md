@@ -23,6 +23,7 @@ My research interest includes large language models, data mining, information re
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Our work WESE for coorperative weak and strong agents is accepted by [SCIS](https://www.sciengine.com/SCIS/home). 
 - *2025.03*: &nbsp;🎉🎉 Our work InteRecAgent for interactive recommendation is accepted by [TOIS](https://dl.acm.org/journal/tois). 
 - *2025.01*: &nbsp;🎉🎉 Our work HyperGate for multi-domain multi-task recommendation is accepted by [WWW 2025](https://www2025.thewebconf.org/), accept rate 22.42%. 
 - *2025.01*: &nbsp;🎉🎉 Our work [ToolACE](https://openreview.net/forum?id=8EB8k6DdCU) for enhancing tool-using ability of LLM is accepted by [ICLR 2025](https://iclr.cc/Conferences/2025). 
@@ -68,10 +69,10 @@ Weiwen Liu\*, **Xu Huang\***, Xingshan Zeng\*, Xinlong Hao, Shuai Yu, Dexun Li, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/wese.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS</div><img src='images/wese.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[WESE: Weak Exploration to Strong Exploitation for LLM Agents](https://arxiv.org/abs/2404.07456)
+[WESE: Weak Exploration to Strong Exploitation for LLM Agents](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4554-x)
 
 **Xu Huang**, Weiwen Liu, Xiaolong Chen, Xingmei Wang, Defu Lian, Yasheng Wang, Ruiming Tang, Enhong Chen
 
@@ -228,6 +229,9 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 - *2017.08 - 2021.06*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Bachelor.
 
 # 💻 Internships
+- *2025.07 - Now*, [Bytedance-Douyin](https://www.bytedance.com/), Shanghai, China.
+  - Intern in Recommendation Group-Ranking Team
+  - Dive into: Large Ranking Models
 - *2023.11 - 2025.03*, [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/), Shenzhen, China.
   - Intern in Recommendation and Search Group lead by Ruiming Tang
   - Dive into: Multi-domain and Multi-task Recommendation, LLM Agents
