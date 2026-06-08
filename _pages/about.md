@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 4th-year Ph.D. student under the advisory of Prof.[Defu Lian](https://faculty.ustc.edu.cn/liandefu) in School of Computer Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I got my B.S. degree from University of Science and Technology of China (USTC) in 2021. 
+I recently received my Ph.D. degree from [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2026, under the advisory of Prof. [Defu Lian](https://faculty.ustc.edu.cn/liandefu) in School of Computer Science and Technology. I will join [ByteDance-Douyin](https://www.bytedance.com/) as a researcher, focusing on Large Ranking Models and LLM4Rec. I got my B.S. degree from University of Science and Technology of China (USTC) in 2021.
 
-My research interest includes large language models, data mining, information retrieval, especially on recommender system. Recently my major research direction is on the LLM-driven autonomous agents. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'> <strong><span id='total_cit'>400+</span></strong> google scholar citations </a> <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes large language models, data mining, information retrieval, especially on recommender system. Recently my major research direction is on the large ranking models and LLM-driven recommendation. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'> <strong><span id='total_cit'>1900+</span></strong> google scholar citations </a> <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -240,11 +240,16 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 - Shizhang Bei Talent class Scholarship, *2017.09*
 
 # 📖 Educations
-- *2021.09 - 2026.06 (expected)*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Ph.D. student.
+- *2021.09 - 2026.06*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Ph.D.
 - *2017.08 - 2021.06*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Bachelor.
 
-# 💻 Internships
-- *2025.07 - Now*, [Bytedance-Douyin](https://www.bytedance.com/), Shanghai, China.
+# 💼 Work Experience
+- *2026.07 - Now*, [Bytedance-Douyin](https://www.bytedance.com/), Shanghai, China.
+  - Researcher in Recommendation Group-Ranking Team
+  - Dive into: Large Ranking Models, LLM4Rec
+
+# 🏢 Internships
+- *2025.07 - 2026.06*, [Bytedance-Douyin](https://www.bytedance.com/), Shanghai, China.
   - Intern in Recommendation Group-Ranking Team
   - Dive into: Large Ranking Models
 - *2023.11 - 2025.03*, [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/), Shenzhen, China.
@@ -271,7 +276,7 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 
 # 📃 Curriculum Vitae
 
-I am a 2026 graduate seeking employment opportunities. Please do not hesitate to contact me via email if you have any suitable positions available. Contact me: [xuhuangcs@mail.ustc.edu.cn](mailto:xuhuangcs@mail.ustc.edu.cn).
+Contact me: [xuhuangcs@mail.ustc.edu.cn](mailto:xuhuangcs@mail.ustc.edu.cn) / [xu.hwang@outlook.com](mailto:xu.hwang@outlook.com).
 
 <!-- <object data="images/CV.pdf" type="application/pdf" width="48%" height="64%">
   <p>It appears you don't have a PDF plugin for this browser. No worries, you can<a href="images/cv.pdf"> click here to download the PDF file.</a></p>
