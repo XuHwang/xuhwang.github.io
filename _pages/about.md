@@ -23,6 +23,7 @@ My research interest includes large language models, data mining, information re
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our paper MixFormer for co-scaling up dense and sequence in industrial recommenders is accepted by [KDD 2026](https://kdd2026.kdd.org/).
 - *2025.08*: &nbsp;🎉🎉 Our work WESE for coorperative weak and strong agents is accepted by [SCIS](https://www.sciengine.com/SCIS/home). 
 - *2025.03*: &nbsp;🎉🎉 Our work InteRecAgent for interactive recommendation is accepted by [TOIS](https://dl.acm.org/journal/tois). 
 - *2025.01*: &nbsp;🎉🎉 Our work HyperGate for multi-domain multi-task recommendation is accepted by [WWW 2025](https://www2025.thewebconf.org/), accept rate 22.42%. 
@@ -39,6 +40,20 @@ My research interest includes large language models, data mining, information re
 <!-- - *2023.01*: &nbsp;🎉🎉 Our work for jointly optimization in multi-stage recommendation *CoRR* is accepted by The Web Conference 2023.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/mixformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MixFormer: Co-Scaling Up Dense and Sequence in Industrial Recommenders](https://arxiv.org/abs/2602.14110)
+
+**Xu Huang**, Hao Zhang, Zhifang Fan, Yunwen Huang, Zhuoxing Wei, Zheng Chai, Jinan Ni, Yuchao Zheng, Qiwei Chen
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fXFMb-gAAAAJ&citation_for_view=fXFMb-gAAAAJ:j3f4tGmQtD8C) <strong><span class='show_paper_citations' data='fXFMb-gAAAAJ:j3f4tGmQtD8C'></span></strong>
+- MixFormer is a unified Transformer architecture for recommender systems that jointly models sequential behaviors and feature interactions within a single backbone.
+- It enables effective co-scaling of dense capacity and sequence length, with a user-item decoupling strategy for efficiency.
+- Large-scale online A/B tests on Douyin and Douyin Lite show consistent improvements in user engagement metrics including active days and in-app usage duration.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/hypergate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
