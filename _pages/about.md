@@ -39,6 +39,28 @@ My research interest includes large language models, data mining, information re
 <!-- - *2023.04*: &nbsp;🎉🎉 Our paper for the modularized recommender system library *[RecStudio](http://recstudio.org.cn/)* is accepted by SIGIR 2023.  -->
 <!-- - *2023.01*: &nbsp;🎉🎉 Our work for jointly optimization in multi-stage recommendation *CoRR* is accepted by The Web Conference 2023.  -->
 
+# 📖 Educations
+- *2021.09 - 2026.06*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Ph.D.
+- *2017.08 - 2021.06*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Bachelor.
+
+# 💼 Work Experience
+- *2026.07 - Now*, [Bytedance-Douyin](https://www.bytedance.com/), Shanghai, China.
+  - Researcher in Recommendation Group-Ranking Team
+  - Dive into: Large Ranking Models, LLM4Rec
+
+# 🏢 Internships
+- *2025.07 - 2026.06*, [Bytedance-Douyin](https://www.bytedance.com/), Shanghai, China.
+  - Intern in Recommendation Group-Ranking Team
+  - Dive into: Large Ranking Models
+- *2023.11 - 2025.03*, [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/), Shenzhen, China.
+  - Intern in Recommendation and Search Group lead by Ruiming Tang
+  - Dive into: Multi-domain and Multi-task Recommendation, LLM Agents
+  - Mentor: [Weiwen Liu](https://wwliu555.github.io/)
+- *2022.10 - 2023.10*, [Microsoft Research Asia](https://www.msra.cn/), Beijing, China.
+  - Intern in [Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/) lead by [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
+  - Dive into: Responsible Recommendation, Recommendation Agent
+  - Mentor: [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/)
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/mixformer.png' alt="sym" width="100%"></div></div>
@@ -238,29 +260,6 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 - USTC Excellent Student Prize, *2017.09*, *2018.09*, *2019.09*
 - National Encouragement Scholarship, *2018.09*
 - Shizhang Bei Talent class Scholarship, *2017.09*
-
-# 📖 Educations
-- *2021.09 - 2026.06*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Ph.D.
-- *2017.08 - 2021.06*, [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Bachelor.
-
-# 💼 Work Experience
-- *2026.07 - Now*, [Bytedance-Douyin](https://www.bytedance.com/), Shanghai, China.
-  - Researcher in Recommendation Group-Ranking Team
-  - Dive into: Large Ranking Models, LLM4Rec
-
-# 🏢 Internships
-- *2025.07 - 2026.06*, [Bytedance-Douyin](https://www.bytedance.com/), Shanghai, China.
-  - Intern in Recommendation Group-Ranking Team
-  - Dive into: Large Ranking Models
-- *2023.11 - 2025.03*, [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/), Shenzhen, China.
-  - Intern in Recommendation and Search Group lead by Ruiming Tang
-  - Dive into: Multi-domain and Multi-task Recommendation, LLM Agents
-  - Mentor: [Weiwen Liu](https://wwliu555.github.io/)
-- *2022.10 - 2023.10*, [Microsoft Research Asia](https://www.msra.cn/), Beijing, China.
-  - Intern in [Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/) lead by [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
-  - Dive into: Responsible Recommendation, Recommendation Agent
-  - Mentor: [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/)
-
 
 # ⏳ Professional Services
 
