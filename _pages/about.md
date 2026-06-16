@@ -254,10 +254,12 @@ Jin Chen, Defu Lian, Binbin Jin, **Xu Huang**, Kai Zhang, Enhong Chen
 
 
 # 🎖 Honors and Awards
+- Outstanding Graduate of Anhui Province, *2026.04*
+- Outstanding Graduate of University of Science and Technology of China, *2026.04*
+- National Scholarship, *2025.12*, *2023.12*
+- USTC Academic Scholarship, *2024.09*, *2023.09*, *2022.09*, *2021.09*
 - Stars of Tomorrow Award, Microsoft Research Asia, *2023.10*
-- National Scholarship, *2023.10*
-- USTC Academic Scholarship, *2021.09*, *2022.09*, *2023.09*, *2024.09*
-- USTC Excellent Student Prize, *2017.09*, *2018.09*, *2019.09*
+- USTC Excellent Student Prize, *2019.09*, *2018.09*, *2017.09*
 - National Encouragement Scholarship, *2018.09*
 - Shizhang Bei Talent class Scholarship, *2017.09*
 
