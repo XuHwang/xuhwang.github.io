@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xu Huang 黄旭"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D Student of USTC"
-  location         : "Hefei, China"
-  employer         :
+  bio              : "Researcher at ByteDance-Douyin"
+  location         : "Shanghai, China"
+  employer         : "ByteDance-Douyin"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "xu.hwang@outlook.com"

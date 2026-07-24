@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I recently received my Ph.D. degree from [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2026, under the advisory of Prof. [Defu Lian](https://faculty.ustc.edu.cn/liandefu) in School of Computer Science and Technology. I will join [ByteDance-Douyin](https://www.bytedance.com/) as a researcher, focusing on Large Ranking Models and LLM4Rec. I got my B.S. degree from University of Science and Technology of China (USTC) in 2021.
+I am currently a researcher at [ByteDance-Douyin](https://www.bytedance.com/), focusing on Large Ranking Models and LLM4Rec. I received my Ph.D. degree from [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2026, under the advisory of Prof. [Defu Lian](https://faculty.ustc.edu.cn/liandefu) in School of Computer Science and Technology. I got my B.S. degree from University of Science and Technology of China (USTC) in 2021.
 
 My research interest includes large language models, data mining, information retrieval, especially on recommender system. Recently my major research direction is on the large ranking models and LLM-driven recommendation. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'> <strong><span id='total_cit'>1900+</span></strong> google scholar citations </a> <a href='https://scholar.google.com/citations?user=fXFMb-gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
